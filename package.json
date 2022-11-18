@@ -18,7 +18,7 @@
     "@types/md5": "^2.1.33",
     "@vue/cli-plugin-babel": "^3.10.0",
     "@vue/cli-plugin-typescript": "^3.10.0",
-    "@vue/cli-service": "^3.10.0",
+    "@vue/cli-service": "^5.0.8",
     "portfinder": "^1.0.21",
     "prettier": "1.18.2",
     "typescript": "^3.4.3",
